@@ -1,0 +1,30 @@
+[
+    {
+        "title":"free Notice 1",
+        "content":"WP Mail SMTP 3.1 is here, including the brand new Postmark mailer! Get fast, reliable email delivery for your WordPress website when you switch to Postmark today. Postmark is available right now for our Lite and Pro users.",
+        "id":1,
+        "btns":{
+            "main":{
+                "url":"https:\/\/wpmailsmtp.com\/introducing-wp-mail-smtp-3-1\/?utm_source=WordPress&utm_campaign=plugin&utm_medium=Plugin Notification&utm_content=Postmark Lite Learn More",
+                "text":"Learn More"
+            }
+        },
+        "start":"2021-11-01 00:00:00"
+    },    
+    {
+        "title":"free Notice 2",
+        "content":"WP Mail SMTP 3.1 is here, including the brand new Postmark mailer! Get fast, reliable email delivery for your WordPress website when you switch to Postmark today. Postmark is available right now for our Lite and Pro users.",
+        "id":2,
+        "btns":{
+            "main":{
+                "url":"https:\/\/wpmailsmtp.com\/introducing-wp-mail-smtp-3-1\/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=Plugin Notification&utm_content=Postmark Lite Learn More",
+                "text":"Learn More"
+            },
+            "alt":{
+                "url":"https:\/\/wpmailsmtp.com\/wpmailsmtp-lite-upgrade\/?utm_source=WordPress&utm_campaign=liteplugin&utm_medium=Plugin Notification&utm_content=Postmark Lite Get WP Mail SMTP Pro",
+                "text":"Get WP Mail SMTP Pro"
+                }
+            },
+        "start":"2021-11-01 00:00:00"
+    }
+]
