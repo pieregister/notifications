@@ -1,0 +1,14 @@
+[
+    {
+        "title":"PasswordLess Registration Premium",
+        "content":"Gather customers' details from registration without asking them to set a password for themselves.",
+        "id":1,
+        "btns":{
+            "main":{
+                "url": "https:\/\/pieregister.com\/documentation\/how-to-make-registration-password-less",
+                "text":"Learn More"
+            }
+        },
+        "start":"2021-11-18 00:00:00"
+    }
+]
