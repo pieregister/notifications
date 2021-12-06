@@ -6,7 +6,8 @@
         "btns":{
             "main":{
                 "url": "https:\/\/pieregister.com\/documentation\/how-to-make-registration-password-less",
-                "text":"Learn More"
+                "text":"Learn More",
+                "target" : "_blank"
             }
         },
         "start":"2021-11-18 00:00:00"
